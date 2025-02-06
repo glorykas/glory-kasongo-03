@@ -1,5 +1,4 @@
 # glory-kasongo-03
-School project
 
 To-Do-List Application
 The project consist of an application that lets you create a list of tasks.
